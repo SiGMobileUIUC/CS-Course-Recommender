@@ -17,7 +17,6 @@ def search_file():
     csvFile = csv.reader(csv_data)
 
     for lines in csvFile:
-        #print(lines)
         if lines[COURSE_TYPE_INDEX] == "CS":
             cs_classes.append(lines)
 
@@ -92,7 +91,6 @@ def final_info(class_dict, names):
     return info
 
 
-# Press the green button in the gutter to run the script.
 def main():
     data = search_file()
     class_dict = get_class_grades_dict(data)

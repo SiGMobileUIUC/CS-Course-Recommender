@@ -52,7 +52,7 @@ def get_class_grades_dict(data):
             temp_dict = {line_name: line_data}
             class_dict.update(temp_dict)
 
-    return class_dict
+    return find_class_gpa(class_dict)
 
 def find_class_gpa(data):
     gpa_scale = [4.0, 4.0, 3.67, 3.33, 3.0, 2.67, 2.33, 2.0, 1.67, 1.33, 1.0, 0.67, 0.0]
@@ -71,32 +71,32 @@ def find_class_gpa(data):
     return class_gpa_dict
 
 def get_names(data):
-    class_names = []
-
-    CLASS_NAME_INDEX = 4
+    class_names = {}
+    CLASS_NAME_INDEX = 5
+    CLASS_ID_INDEX = 4
 
     for array in data:
-        if not class_names.__contains__(array[CLASS_NAME_INDEX]):
-            class_names.append(array[CLASS_NAME_INDEX])
+        if array[CLASS_NAME_INDEX] not in class_names:
+            info = {array[CLASS_NAME_INDEX] : int(array[CLASS_ID_INDEX])}
+            class_names.update(info)
 
     return class_names
 
 def final_info(class_dict, names):
     info = []
     index = 0
+
     for key in class_dict:
-        info_dict = {"ID" : names[index], "NAME": key, "GPA" : class_dict[key]}
+        info_dict = {"ID" : names[key], "NAME": key, "GPA" : int(class_dict[key])}
         info.append(info_dict)
-
+        index += 1
     return info
-
 
 def main():
     data = search_file()
     class_dict = get_class_grades_dict(data)
-    vals = find_class_gpa(class_dict)
     names = get_names(data)
-    final = final_info(vals, names)
+    final = final_info(class_dict, names)
 
     with open('class_gpa.json', 'w') as json_file:
         json.dump(final, json_file, indent=4)

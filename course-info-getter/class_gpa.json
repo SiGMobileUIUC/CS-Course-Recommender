@@ -2,1291 +2,1291 @@
     {
         "ID": 101,
         "NAME": "Intro Computing: Engrg & Sci",
-        "GPA": 3
+        "GPA": 3.41
     },
     {
         "ID": 105,
         "NAME": "Intro Computing: Non-Tech",
-        "GPA": 3
+        "GPA": 3.25
     },
     {
         "ID": 124,
         "NAME": "Intro to Computer Science I",
-        "GPA": 3
+        "GPA": 3.6
     },
     {
         "ID": 128,
         "NAME": "Intro to Computer Science II",
-        "GPA": 3
+        "GPA": 3.58
     },
     {
         "ID": 173,
         "NAME": "Discrete Structures",
-        "GPA": 3
+        "GPA": 3.07
     },
     {
         "ID": 210,
         "NAME": "Ethical & Professional Issues",
-        "GPA": 3
+        "GPA": 3.63
     },
     {
         "ID": 211,
         "NAME": "Ethical & Professional Conduct",
-        "GPA": 3
+        "GPA": 3.72
     },
     {
         "ID": 222,
         "NAME": "Software Design Lab",
-        "GPA": 3
+        "GPA": 3.87
     },
     {
         "ID": 225,
         "NAME": "Data Structures",
-        "GPA": 3
+        "GPA": 3.27
     },
     {
         "ID": 233,
         "NAME": "Computer Architecture",
-        "GPA": 3
+        "GPA": 3.29
     },
     {
         "ID": 277,
         "NAME": "Algo & Data Stru for Data Sci",
-        "GPA": 3
+        "GPA": 3.6
     },
     {
         "ID": 307,
         "NAME": "Model & Learning in Data Sci",
-        "GPA": 3
+        "GPA": 3.76
     },
     {
         "ID": 340,
         "NAME": "Intro to Computer Systems",
-        "GPA": 3
+        "GPA": 3.44
     },
     {
         "ID": 341,
         "NAME": "System Programming",
-        "GPA": 3
+        "GPA": 3.05
     },
     {
         "ID": 357,
         "NAME": "Numerical Methods I",
-        "GPA": 3
+        "GPA": 3.27
     },
     {
         "ID": 361,
         "NAME": "Prob & Stat for Computer Sci",
-        "GPA": 3
+        "GPA": 3.44
     },
     {
         "ID": 374,
         "NAME": "Intro to Algs & Models of Comp",
-        "GPA": 2
+        "GPA": 2.89
     },
     {
         "ID": 410,
         "NAME": "Text Information Systems",
-        "GPA": 3
+        "GPA": 3.87
     },
     {
         "ID": 411,
         "NAME": "Database Systems",
-        "GPA": 3
+        "GPA": 3.59
     },
     {
         "ID": 412,
         "NAME": "Introduction to Data Mining",
-        "GPA": 3
+        "GPA": 3.42
     },
     {
         "ID": 415,
         "NAME": "Game Development",
-        "GPA": 3
+        "GPA": 3.75
     },
     {
         "ID": 421,
         "NAME": "Progrmg Languages & Compilers",
-        "GPA": 3
+        "GPA": 3.41
     },
     {
         "ID": 423,
         "NAME": "Operating Systems Design",
-        "GPA": 3
+        "GPA": 3.51
     },
     {
         "ID": 425,
         "NAME": "Distributed Systems",
-        "GPA": 3
+        "GPA": 3.32
     },
     {
         "ID": 427,
         "NAME": "Software Engineering I",
-        "GPA": 3
+        "GPA": 3.64
     },
     {
         "ID": 431,
         "NAME": "Embedded Systems",
-        "GPA": 3
+        "GPA": 3.1
     },
     {
         "ID": 433,
         "NAME": "Computer System Organization",
-        "GPA": 3
+        "GPA": 3.35
     },
     {
         "ID": 435,
         "NAME": "Cloud Networking",
-        "GPA": 3
+        "GPA": 3.56
     },
     {
         "ID": 437,
         "NAME": "Topics in Internet of Things",
-        "GPA": 3
+        "GPA": 3.72
     },
     {
         "ID": 438,
         "NAME": "Communication Networks",
-        "GPA": 3
+        "GPA": 3.26
     },
     {
         "ID": 440,
         "NAME": "Artificial Intelligence",
-        "GPA": 3
+        "GPA": 3.36
     },
     {
         "ID": 441,
         "NAME": "Applied Machine Learning",
-        "GPA": 3
+        "GPA": 3.81
     },
     {
         "ID": 442,
         "NAME": "Trustworthy Machine Learning",
-        "GPA": 3
+        "GPA": 3.39
     },
     {
         "ID": 444,
         "NAME": "Deep Learning for Compt Visn",
-        "GPA": 3
+        "GPA": 3.7
     },
     {
         "ID": 445,
         "NAME": "Computational Photography",
-        "GPA": 3
+        "GPA": 3.57
     },
     {
         "ID": 446,
         "NAME": "Machine Learning",
-        "GPA": 3
+        "GPA": 3.4
     },
     {
         "ID": 447,
         "NAME": "Natural Language Processing",
-        "GPA": 3
+        "GPA": 3.64
     },
     {
         "ID": 448,
         "NAME": "Audio Computing Laboratory",
-        "GPA": 3
+        "GPA": 3.55
     },
     {
         "ID": 450,
         "NAME": "Numerical Analysis",
-        "GPA": 3
+        "GPA": 3.17
     },
     {
         "ID": 461,
         "NAME": "Computer Security I",
-        "GPA": 3
+        "GPA": 3.02
     },
     {
         "ID": 463,
         "NAME": "Computer Security II",
-        "GPA": 3
+        "GPA": 3.61
     },
     {
         "ID": 464,
         "NAME": "Topics in Societal Impacts",
-        "GPA": 3
+        "GPA": 3.73
     },
     {
         "ID": 473,
         "NAME": "Algorithms",
-        "GPA": 3
+        "GPA": 3.18
     },
     {
         "ID": 477,
         "NAME": "Formal Software Devel Methods",
-        "GPA": 3
+        "GPA": 3.54
     },
     {
         "ID": 498,
         "NAME": "Cloud Computing Applications",
-        "GPA": 3
+        "GPA": 3.62
     },
     {
         "ID": 498,
         "NAME": "Data Management in the Cloud",
-        "GPA": 3
+        "GPA": 3.8
     },
     {
         "ID": 498,
         "NAME": "Intro to Quantum Computing",
-        "GPA": 3
+        "GPA": 3.93
     },
     {
         "ID": 498,
         "NAME": "Computational Social Science",
-        "GPA": 3
+        "GPA": 3.87
     },
     {
         "ID": 500,
         "NAME": "Broadening Particip in CS Ed",
-        "GPA": 3
+        "GPA": 3.96
     },
     {
         "ID": 510,
         "NAME": "Advanced Information Retrieval",
-        "GPA": 3
+        "GPA": 3.87
     },
     {
         "ID": 521,
         "NAME": "Tech Found of Blockchain",
-        "GPA": 3
+        "GPA": 3.9
     },
     {
         "ID": 521,
         "NAME": "ML & Compilers",
-        "GPA": 3
+        "GPA": 3.79
     },
     {
         "ID": 523,
         "NAME": "Advanced Operating Systems",
-        "GPA": 3
+        "GPA": 3.74
     },
     {
         "ID": 533,
         "NAME": "Parallel Computer Architecture",
-        "GPA": 3
+        "GPA": 3.65
     },
     {
         "ID": 534,
         "NAME": "Adv Topics in Comp Arch",
-        "GPA": 3
+        "GPA": 3.66
     },
     {
         "ID": 538,
         "NAME": "Advanced Computer Networks",
-        "GPA": 3
+        "GPA": 3.85
     },
     {
         "ID": 555,
         "NAME": "Numerical Methods for PDEs",
-        "GPA": 3
+        "GPA": 3.8
     },
     {
         "ID": 563,
         "NAME": "Advanced Computer Security",
-        "GPA": 3
+        "GPA": 3.69
     },
     {
         "ID": 568,
         "NAME": "User-Centered Machine Learning",
-        "GPA": 3
+        "GPA": 3.93
     },
     {
         "ID": 588,
         "NAME": "Autonomous Vehicle System Eng",
-        "GPA": 3
+        "GPA": 3.24
     },
     {
         "ID": 598,
         "NAME": "Advanced Perform Engineering",
-        "GPA": 3
+        "GPA": 3.91
     },
     {
         "ID": 598,
         "NAME": "Deep Generative Models",
-        "GPA": 3
+        "GPA": 3.91
     },
     {
         "ID": 598,
         "NAME": "Deep Lrng for Healthcare",
-        "GPA": 3
+        "GPA": 3.85
     },
     {
         "ID": 598,
         "NAME": "Advanced Bayesian Modeling",
-        "GPA": 3
+        "GPA": 3.55
     },
     {
         "ID": 598,
         "NAME": "Systems for GenAI",
-        "GPA": 3
+        "GPA": 3.91
     },
     {
         "ID": 598,
         "NAME": "Fault-Tol Consistent Data Sys",
-        "GPA": 3
+        "GPA": 3.82
     },
     {
         "ID": 598,
         "NAME": "Gen Mod for BioMed & Life Sci",
-        "GPA": 3
+        "GPA": 3.89
     },
     {
         "ID": 598,
         "NAME": "Software QA w Generative AI",
-        "GPA": 3
+        "GPA": 3.83
     },
     {
         "ID": 598,
         "NAME": "LLM Post-pretraining",
-        "GPA": 3
+        "GPA": 3.91
     },
     {
         "ID": 598,
         "NAME": "Language, Interfaces, and Comm",
-        "GPA": 3
+        "GPA": 3.71
     },
     {
         "ID": 598,
         "NAME": "Hot Topics in Data Management",
-        "GPA": 3
+        "GPA": 3.75
     },
     {
         "ID": 400,
         "NAME": "Accel Fund of Computing I",
-        "GPA": 3
+        "GPA": 3.51
     },
     {
         "ID": 401,
         "NAME": "Accel Fund of Algorithms I",
-        "GPA": 3
+        "GPA": 3.8
     },
     {
         "ID": 409,
         "NAME": "The Art of Web Programming",
-        "GPA": 3
+        "GPA": 3.49
     },
     {
         "ID": 418,
         "NAME": "Interactive Computer Graphics",
-        "GPA": 3
+        "GPA": 3.28
     },
     {
         "ID": 424,
         "NAME": "Real-Time Systems",
-        "GPA": 3
+        "GPA": 3.61
     },
     {
         "ID": 426,
         "NAME": "Compiler Construction",
-        "GPA": 3
+        "GPA": 3.42
     },
     {
         "ID": 437,
         "NAME": "Networked IoT Systems",
-        "GPA": 3
+        "GPA": 3.34
     },
     {
         "ID": 465,
         "NAME": "User Interface Design",
-        "GPA": 3
+        "GPA": 3.34
     },
     {
         "ID": 466,
         "NAME": "Introduction to Bioinformatics",
-        "GPA": 3
+        "GPA": 3.52
     },
     {
         "ID": 470,
         "NAME": "Social and Information Network",
-        "GPA": 3
+        "GPA": 3.94
     },
     {
         "ID": 484,
         "NAME": "Parallel Programming",
-        "GPA": 3
+        "GPA": 3.34
     },
     {
         "ID": 498,
         "NAME": "Law &Policy Issues in CS",
-        "GPA": 3
+        "GPA": 3.81
     },
     {
         "ID": 498,
         "NAME": "Computational Geometry",
-        "GPA": 3
+        "GPA": 3.54
     },
     {
         "ID": 511,
         "NAME": "Advanced Data Management",
-        "GPA": 3
+        "GPA": 3.78
     },
     {
         "ID": 527,
         "NAME": "Topics in Software Engineering",
-        "GPA": 3
+        "GPA": 3.76
     },
     {
         "ID": 537,
         "NAME": "Advanced Topics in IoT",
-        "GPA": 3
+        "GPA": 3.61
     },
     {
         "ID": 542,
         "NAME": "Stat Reinforcement Learning",
-        "GPA": 3
+        "GPA": 3.61
     },
     {
         "ID": 545,
         "NAME": "Machine Learning for Signals",
-        "GPA": 3
+        "GPA": 3.74
     },
     {
         "ID": 546,
         "NAME": "Adv Topics in NLP",
-        "GPA": 3
+        "GPA": 3.81
     },
     {
         "ID": 562,
         "NAME": "Adv. Trustworthy Mach. Lrng.",
-        "GPA": 3
+        "GPA": 3.89
     },
     {
         "ID": 567,
         "NAME": "Social Spaces",
-        "GPA": 3
+        "GPA": 3.79
     },
     {
         "ID": 598,
         "NAME": "Endpt Threat Detect. & Invest.",
-        "GPA": 3
+        "GPA": 3.85
     },
     {
         "ID": 598,
         "NAME": "AI Efficiency: Sys. & Algor.",
-        "GPA": 3
+        "GPA": 3.72
     },
     {
         "ID": 598,
         "NAME": "Foundations of Data Curation",
-        "GPA": 3
+        "GPA": 3.95
     },
     {
         "ID": 598,
         "NAME": "Conversational AI",
-        "GPA": 3
+        "GPA": 3.84
     },
     {
         "ID": 598,
         "NAME": "ML for Software Engineering",
-        "GPA": 3
+        "GPA": 3.91
     },
     {
         "ID": 598,
         "NAME": "Text Mining Large Lang. Models",
-        "GPA": 3
+        "GPA": 3.87
     },
     {
         "ID": 598,
         "NAME": "How to Do Research",
-        "GPA": 3
+        "GPA": 3.92
     },
     {
         "ID": 598,
         "NAME": "ADV Comp. Topics in Robotics",
-        "GPA": 3
+        "GPA": 3.42
     },
     {
         "ID": 598,
         "NAME": "Practical Statistical Learning",
-        "GPA": 3
+        "GPA": 3.81
     },
     {
         "ID": 598,
         "NAME": "3-D Vision",
-        "GPA": 3
+        "GPA": 3.97
     },
     {
         "ID": 598,
         "NAME": "Lang., Interfaces, and Comm.",
-        "GPA": 3
+        "GPA": 3.86
     },
     {
         "ID": 598,
         "NAME": "ML Algorithms for LLMs",
-        "GPA": 3
+        "GPA": 3.86
     },
     {
         "ID": 598,
         "NAME": "Deep Learning with Graphs",
-        "GPA": 3
+        "GPA": 3.93
     },
     {
         "ID": 199,
         "NAME": "Even More Practice 128",
-        "GPA": 3
+        "GPA": 3.89
     },
     {
         "ID": 443,
         "NAME": "Reinforcement Learning",
-        "GPA": 3
+        "GPA": 3.39
     },
     {
         "ID": 467,
         "NAME": "Social Visualization",
-        "GPA": 3
+        "GPA": 3.74
     },
     {
         "ID": 498,
         "NAME": "End-to-End Data Science",
-        "GPA": 3
+        "GPA": 3.91
     },
     {
         "ID": 500,
         "NAME": "Topics in Comp Ed Rsrch",
-        "GPA": 3
+        "GPA": 3.8
     },
     {
         "ID": 512,
         "NAME": "Data Mining Principles",
-        "GPA": 3
+        "GPA": 3.61
     },
     {
         "ID": 562,
         "NAME": "Adv Topics in Sec, Priv and ML",
-        "GPA": 3
+        "GPA": 3.9
     },
     {
         "ID": 565,
         "NAME": "Ethics in AI",
-        "GPA": 3
+        "GPA": 3.68
     },
     {
         "ID": 574,
         "NAME": "Randomized Algorithms",
-        "GPA": 3
+        "GPA": 3.62
     },
     {
         "ID": 598,
         "NAME": "Secure Computation",
-        "GPA": 3
+        "GPA": 3.67
     },
     {
         "ID": 598,
         "NAME": "Robotics",
-        "GPA": 3
+        "GPA": 3.83
     },
     {
         "ID": 598,
         "NAME": "Embodied Natural Language Proc",
-        "GPA": 3
+        "GPA": 3.95
     },
     {
         "ID": 598,
         "NAME": "Deep Learning For Healthcare",
-        "GPA": 3
+        "GPA": 3.89
     },
     {
         "ID": 598,
         "NAME": "Frontiers of Quantum Complex.",
-        "GPA": 3
+        "GPA": 3.96
     },
     {
         "ID": 598,
         "NAME": "Principles of Generative AI",
-        "GPA": 3
+        "GPA": 3.9
     },
     {
         "ID": 598,
         "NAME": "Deep Lrng. for Robotic Manip.",
-        "GPA": 3
+        "GPA": 3.86
     },
     {
         "ID": 598,
         "NAME": "ML and Data Systems",
-        "GPA": 3
+        "GPA": 3.87
     },
     {
         "ID": 416,
         "NAME": "Data Visualization",
-        "GPA": 3
+        "GPA": 3.84
     },
     {
         "ID": 519,
         "NAME": "Scientific Visualization",
-        "GPA": 3
+        "GPA": 3.74
     },
     {
         "ID": 598,
         "NAME": "Data Mining Capstone",
-        "GPA": 3
+        "GPA": 3.85
     },
     {
         "ID": 100,
         "NAME": "Computer Science Orientation",
-        "GPA": 3
+        "GPA": 3.9
     },
     {
         "ID": 233,
         "NAME": "Computer Architecture Honors",
-        "GPA": 3
+        "GPA": 3.8
     },
     {
         "ID": 460,
         "NAME": "Security Laboratory",
-        "GPA": 3
+        "GPA": 3.67
     },
     {
         "ID": 498,
         "NAME": "Mobile Robotics for CS",
-        "GPA": 3
+        "GPA": 3.79
     },
     {
         "ID": 580,
         "NAME": "Topics in Algrthmc Game Theory",
-        "GPA": 3
+        "GPA": 3.52
     },
     {
         "ID": 598,
         "NAME": "ML + Data Systems",
-        "GPA": 3
+        "GPA": 3.94
     },
     {
         "ID": 598,
         "NAME": "Cloud Stor Sys: Theory&Practic",
-        "GPA": 3
+        "GPA": 3.86
     },
     {
         "ID": 598,
         "NAME": "Research Methods in HCI",
-        "GPA": 3
+        "GPA": 3.91
     },
     {
         "ID": 598,
         "NAME": "Advanced Data Structures",
-        "GPA": 3
+        "GPA": 3.7
     },
     {
         "ID": 598,
         "NAME": "Special Top. in Robot Learning",
-        "GPA": 3
+        "GPA": 3.87
     },
     {
         "ID": 402,
         "NAME": "Accel Fund of Computing II",
-        "GPA": 3
+        "GPA": 3.71
     },
     {
         "ID": 403,
         "NAME": "Accel Fund of Algorithms II",
-        "GPA": 3
+        "GPA": 3.53
     },
     {
         "ID": 420,
         "NAME": "Parallel Progrmg: Sci & Engrg",
-        "GPA": 3
+        "GPA": 3.37
     },
     {
         "ID": 469,
         "NAME": "Comp Adv Infrastructure",
-        "GPA": 3
+        "GPA": 3.91
     },
     {
         "ID": 498,
         "NAME": "Intro to Machine Perception",
-        "GPA": 3
+        "GPA": 3.59
     },
     {
         "ID": 525,
         "NAME": "Advanced Distributed Systems",
-        "GPA": 3
+        "GPA": 3.69
     },
     {
         "ID": 565,
         "NAME": "Human-Computer Interaction",
-        "GPA": 3
+        "GPA": 3.72
     },
     {
         "ID": 598,
         "NAME": "Transfer Learning",
-        "GPA": 3
+        "GPA": 3.87
     },
     {
         "ID": 476,
         "NAME": "Program Verification",
-        "GPA": 3
+        "GPA": 3.57
     },
     {
         "ID": 521,
         "NAME": "Adv Topics in Pgm Systems",
-        "GPA": 3
+        "GPA": 3.81
     },
     {
         "ID": 540,
         "NAME": "Deep Learning Theory",
-        "GPA": 3
+        "GPA": 3.8
     },
     {
         "ID": 598,
         "NAME": "Text Mining: A New Paradigm",
-        "GPA": 3
+        "GPA": 3.74
     },
     {
         "ID": 598,
         "NAME": "Learning to learn",
-        "GPA": 3
+        "GPA": 3.96
     },
     {
         "ID": 126,
         "NAME": "Software Design Studio",
-        "GPA": 3
+        "GPA": 3.51
     },
     {
         "ID": 173,
         "NAME": "Discrete Structures- Honors",
-        "GPA": 3
+        "GPA": 3.51
     },
     {
         "ID": 199,
         "NAME": "CA Training",
-        "GPA": 3
+        "GPA": 3.9
     },
     {
         "ID": 475,
         "NAME": "Formal Models of Computation",
-        "GPA": 3
+        "GPA": 3.49
     },
     {
         "ID": 498,
         "NAME": "Computational Advertising",
-        "GPA": 3
+        "GPA": 3.71
     },
     {
         "ID": 498,
         "NAME": "AI for Robot Manipulation",
-        "GPA": 3
+        "GPA": 3.39
     },
     {
         "ID": 498,
         "NAME": "Robotic Systems",
-        "GPA": 3
+        "GPA": 3.32
     },
     {
         "ID": 598,
         "NAME": "Sec and Priv for home IoT",
-        "GPA": 3
+        "GPA": 3.88
     },
     {
         "ID": 598,
         "NAME": "Quantum Cryptography",
-        "GPA": 3
+        "GPA": 3.73
     },
     {
         "ID": 598,
         "NAME": "Smart cities, homes, & beyond",
-        "GPA": 3
+        "GPA": 3.91
     },
     {
         "ID": 598,
         "NAME": "Fault-Tolerant Dist Algorithms",
-        "GPA": 3
+        "GPA": 3.46
     },
     {
         "ID": 598,
         "NAME": "HCI for ML",
-        "GPA": 3
+        "GPA": 3.9
     },
     {
         "ID": 598,
         "NAME": "Social Computing",
-        "GPA": 3
+        "GPA": 3.98
     },
     {
         "ID": 598,
         "NAME": "Proof Automation",
-        "GPA": 3
+        "GPA": 3.91
     },
     {
         "ID": 598,
         "NAME": "Reliability of Cloud-Scale Sys",
-        "GPA": 3
+        "GPA": 3.77
     },
     {
         "ID": 100,
         "NAME": "Freshman Orientation",
-        "GPA": 3
+        "GPA": 3.74
     },
     {
         "ID": 196,
         "NAME": "CS 124 Freshman Honors",
-        "GPA": 3
+        "GPA": 3.94
     },
     {
         "ID": 242,
         "NAME": "Programming Studio",
-        "GPA": 3
+        "GPA": 3.43
     },
     {
         "ID": 498,
         "NAME": "AI Applications in Education",
-        "GPA": 3
+        "GPA": 3.58
     },
     {
         "ID": 554,
         "NAME": "Parallel Numerical Algorithms",
-        "GPA": 3
+        "GPA": 3.69
     },
     {
         "ID": 579,
         "NAME": "Computational Complexity",
-        "GPA": 3
+        "GPA": 3.63
     },
     {
         "ID": 583,
         "NAME": "Approximation Algorithms",
-        "GPA": 3
+        "GPA": 3.75
     },
     {
         "ID": 125,
         "NAME": "Intro to Computer Science",
-        "GPA": 3
+        "GPA": 3.39
     },
     {
         "ID": 196,
         "NAME": "Freshman Honors",
-        "GPA": 3
+        "GPA": 3.77
     },
     {
         "ID": 296,
         "NAME": "Honors Course",
-        "GPA": 3
+        "GPA": 3.69
     },
     {
         "ID": 419,
         "NAME": "Production Computer Graphics",
-        "GPA": 3
+        "GPA": 3.44
     },
     {
         "ID": 498,
         "NAME": "Intro to Deep Learning",
-        "GPA": 3
+        "GPA": 3.71
     },
     {
         "ID": 498,
         "NAME": "Data Science & Analytics",
-        "GPA": 2
+        "GPA": 2.82
     },
     {
         "ID": 498,
         "NAME": "Internet of Things",
-        "GPA": 3
+        "GPA": 3.81
     },
     {
         "ID": 498,
         "NAME": "Audio Computing Lab",
-        "GPA": 3
+        "GPA": 3.76
     },
     {
         "ID": 598,
         "NAME": "Advanced Computer Vision",
-        "GPA": 3
+        "GPA": 3.81
     },
     {
         "ID": 598,
         "NAME": "Deep Learning for Healthcare",
-        "GPA": 3
+        "GPA": 3.79
     },
     {
         "ID": 598,
         "NAME": "Probabilistic Graphical Models",
-        "GPA": 3
+        "GPA": 3.66
     },
     {
         "ID": 199,
         "NAME": "Intro to Comp Sci II",
-        "GPA": 3
+        "GPA": 3.62
     },
     {
         "ID": 598,
         "NAME": "Cloud Capstone",
-        "GPA": 3
+        "GPA": 3.9
     },
     {
         "ID": 498,
         "NAME": "Data Visualiztion",
-        "GPA": 3
+        "GPA": 3.77
     },
     {
         "ID": 513,
         "NAME": "Theory & Pract Data Cleaning",
-        "GPA": 3
+        "GPA": 3.96
     },
     {
         "ID": 498,
         "NAME": "Cyber Dystopia",
-        "GPA": 3
+        "GPA": 3.82
     },
     {
         "ID": 498,
         "NAME": "Introduction to Deep Learning",
-        "GPA": 3
+        "GPA": 3.7
     },
     {
         "ID": 498,
         "NAME": "Social & Information Networks",
-        "GPA": 3
+        "GPA": 3.65
     },
     {
         "ID": 598,
         "NAME": "Improving Your Research Skills",
-        "GPA": 3
+        "GPA": 3.82
     },
     {
         "ID": 598,
         "NAME": "Stat Reinforcement Lrng",
-        "GPA": 3
+        "GPA": 3.84
     },
     {
         "ID": 598,
         "NAME": "Mach Lrng for Signal Processng",
-        "GPA": 3
+        "GPA": 3.81
     },
     {
         "ID": 199,
         "NAME": "Python for Data",
-        "GPA": 3
+        "GPA": 3.84
     },
     {
         "ID": 498,
         "NAME": "Intelligent Robots",
-        "GPA": 3
+        "GPA": 3.63
     },
     {
         "ID": 498,
         "NAME": "Art and Science of Web Prog",
-        "GPA": 3
+        "GPA": 3.34
     },
     {
         "ID": 498,
         "NAME": "Virtual Reality",
-        "GPA": 3
+        "GPA": 3.61
     },
     {
         "ID": 598,
         "NAME": "Network Mining",
-        "GPA": 3
+        "GPA": 3.68
     },
     {
         "ID": 199,
         "NAME": "Elements of Game Design",
-        "GPA": 3
+        "GPA": 3.71
     },
     {
         "ID": 498,
         "NAME": "Applied Cryptography",
-        "GPA": 3
+        "GPA": 3.38
     },
     {
         "ID": 598,
         "NAME": "Adversarial Machine Learning",
-        "GPA": 3
+        "GPA": 3.9
     },
     {
         "ID": 598,
         "NAME": "Consensus Algorithms",
-        "GPA": 3
+        "GPA": 3.75
     },
     {
         "ID": 398,
         "NAME": "Deep Learning",
-        "GPA": 3
+        "GPA": 3.9
     },
     {
         "ID": 398,
         "NAME": "Introduction to Data Science",
-        "GPA": 3
+        "GPA": 3.55
     },
     {
         "ID": 429,
         "NAME": "Software Engineering II, ACP",
-        "GPA": 3
+        "GPA": 3.42
     },
     {
         "ID": 498,
         "NAME": "Algorithms for Big Data",
-        "GPA": 3
+        "GPA": 3.71
     },
     {
         "ID": 598,
         "NAME": "Stat Reinforcement lrng",
-        "GPA": 3
+        "GPA": 3.88
     },
     {
         "ID": 199,
         "NAME": "Real World Cases Scient Comput",
-        "GPA": 3
+        "GPA": 3.85
     },
     {
         "ID": 498,
         "NAME": "Digital Forensics",
-        "GPA": 3
+        "GPA": 3.7
     },
     {
         "ID": 498,
         "NAME": "Experimental Methods for HCI",
-        "GPA": 3
+        "GPA": 3.33
     },
     {
         "ID": 548,
         "NAME": "Models of Cognitive Processes",
-        "GPA": 3
+        "GPA": 3.39
     },
     {
         "ID": 598,
         "NAME": "Lang/Abst f High-Perf Sci Comp",
-        "GPA": 3
+        "GPA": 3.95
     },
     {
         "ID": 598,
         "NAME": "Machine Lrning Computation Bio",
-        "GPA": 3
+        "GPA": 3.86
     },
     {
         "ID": 598,
         "NAME": "Social Spaces on the Internet",
-        "GPA": 3
+        "GPA": 3.93
     },
     {
         "ID": 598,
         "NAME": "Statistical Reinforcement",
-        "GPA": 3
+        "GPA": 3.62
     },
     {
         "ID": 598,
         "NAME": "Realiablity of Cloud-Scale Sys",
-        "GPA": 3
+        "GPA": 3.76
     },
     {
         "ID": 398,
         "NAME": "Applied Cloud Computing",
-        "GPA": 3
+        "GPA": 3.41
     },
     {
         "ID": 492,
         "NAME": "Senior Project I",
-        "GPA": 3
+        "GPA": 3.52
     },
     {
         "ID": 498,
         "NAME": "Learning and Computer Science",
-        "GPA": 3
+        "GPA": 3.14
     },
     {
         "ID": 546,
         "NAME": "Machine Learning in NLP",
-        "GPA": 3
+        "GPA": 3.85
     },
     {
         "ID": 199,
         "NAME": "De-Bug your Brain",
-        "GPA": 3
+        "GPA": 3.82
     },
     {
         "ID": 498,
         "NAME": "Theory II",
-        "GPA": 3
+        "GPA": 3.06
     },
     {
         "ID": 598,
         "NAME": "Secure Processor Design",
-        "GPA": 3
+        "GPA": 3.95
     },
     {
         "ID": 598,
         "NAME": "Adv Social&Information Network",
-        "GPA": 3
+        "GPA": 3.89
     },
     {
         "ID": 598,
         "NAME": "Machine Learning Theory",
-        "GPA": 3
+        "GPA": 3.83
     },
     {
         "ID": 199,
         "NAME": "Undergraduate Open Seminar",
-        "GPA": 3
+        "GPA": 3.68
     },
     {
         "ID": 493,
         "NAME": "Senior Project II, ACP",
-        "GPA": 3
+        "GPA": 3.63
     },
     {
         "ID": 598,
         "NAME": "Autonomous Vehicles for AI",
-        "GPA": 3
+        "GPA": 3.93
     },
     {
         "ID": 598,
         "NAME": "Cutting-Edge Trends In DLR",
-        "GPA": 3
+        "GPA": 3.82
     },
     {
         "ID": 598,
         "NAME": "Social Sensing",
-        "GPA": 3
+        "GPA": 3.89
     },
     {
         "ID": 598,
         "NAME": "Data Cleaning",
-        "GPA": 3
+        "GPA": 3.96
     },
     {
         "ID": 498,
         "NAME": "Intro to Data Science",
-        "GPA": 3
+        "GPA": 3.82
     },
     {
         "ID": 598,
         "NAME": "Graphical Models",
-        "GPA": 3
+        "GPA": 3.86
     },
     {
         "ID": 428,
         "NAME": "Software Engineering II",
-        "GPA": 3
+        "GPA": 3.51
     },
     {
         "ID": 494,
         "NAME": "Senior Project II",
-        "GPA": 3
+        "GPA": 3.61
     },
     {
         "ID": 498,
         "NAME": "Mobile Interaction Design",
-        "GPA": 3
+        "GPA": 3.62
     },
     {
         "ID": 498,
         "NAME": "Algorithms and Models of Comp",
-        "GPA": 2
+        "GPA": 2.73
     },
     {
         "ID": 498,
         "NAME": "Probability in CS",
-        "GPA": 3
+        "GPA": 3.24
     },
     {
         "ID": 498,
         "NAME": "Software Testing",
-        "GPA": 3
+        "GPA": 3.47
     },
     {
         "ID": 598,
         "NAME": "Data-Driven Design",
-        "GPA": 3
+        "GPA": 3.69
     },
     {
         "ID": 473,
         "NAME": "Fundamental Algorithms",
-        "GPA": 2
+        "GPA": 2.67
     },
     {
         "ID": 598,
         "NAME": "Topic in Algorithms",
-        "GPA": 3
+        "GPA": 3.67
     },
     {
         "ID": 528,
         "NAME": "Obj-Oriented Progrmg & Design",
-        "GPA": 3
+        "GPA": 3.6
     },
     {
         "ID": 498,
         "NAME": "Probability in Computer Sci",
-        "GPA": 3
+        "GPA": 3.07
     },
     {
         "ID": 556,
         "NAME": "Iterative & Multigrid Methods",
-        "GPA": 3
+        "GPA": 3.56
     },
     {
         "ID": 373,
         "NAME": "Theory of Computation",
-        "GPA": 3
+        "GPA": 3.01
     },
     {
         "ID": 414,
         "NAME": "Multimedia Systems",
-        "GPA": 3
+        "GPA": 3.21
     },
     {
         "ID": 498,
         "NAME": "Cloud Computing",
-        "GPA": 3
+        "GPA": 3.51
     },
     {
         "ID": 498,
         "NAME": "Using Tech to Solve Adv Probs",
-        "GPA": 3
+        "GPA": 3.65
     },
     {
         "ID": 544,
         "NAME": "Optimiz in Computer Vision",
-        "GPA": 3
+        "GPA": 3.96
     },
     {
         "ID": 598,
         "NAME": "Special Topics",
-        "GPA": 3
+        "GPA": 3.64
     },
     {
         "ID": 422,
         "NAME": "Programming Language Design",
-        "GPA": 3
+        "GPA": 3.79
     },
     {
         "ID": 498,
         "NAME": "Socio-Computer Interaction",
-        "GPA": 3
+        "GPA": 3.22
     },
     {
         "ID": 498,
         "NAME": "Intro to Parallel Programming",
-        "GPA": 2
+        "GPA": 2.7
     },
     {
         "ID": 498,
         "NAME": "Art and Science of Web Progrm",
-        "GPA": 3
+        "GPA": 3.61
     },
     {
         "ID": 231,
         "NAME": "Computer Architecture I",
-        "GPA": 2
+        "GPA": 2.73
     },
     {
         "ID": 232,
         "NAME": "Computer Architecture II",
-        "GPA": 3
+        "GPA": 3.21
     },
     {
         "ID": 457,
         "NAME": "Numerical Methods II",
-        "GPA": 2
+        "GPA": 2.63
     },
     {
         "ID": 527,
         "NAME": "Adv Topics in Software Eng",
-        "GPA": 3
+        "GPA": 3.82
     },
     {
         "ID": 598,
         "NAME": "Object-Oriented Prog & Design",
-        "GPA": 3
+        "GPA": 3.83
     }
 ]

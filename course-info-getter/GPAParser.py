@@ -66,6 +66,8 @@ def find_class_gpa(data):
         for i in range(0, len(grades)):
             students += grades[i]
             sum += grades[i] * gpa_scale[i]
+
+        print(round(sum / students, 2))
         class_gpa_dict.update({key: round(sum / students, 2)})
 
     return class_gpa_dict
@@ -87,7 +89,7 @@ def final_info(class_dict, names):
     index = 0
 
     for key in class_dict:
-        info_dict = {"ID" : names[key], "NAME": key, "GPA" : int(class_dict[key])}
+        info_dict = {"ID" : names[key], "NAME": key, "GPA" : class_dict[key]}
         info.append(info_dict)
         index += 1
     return info

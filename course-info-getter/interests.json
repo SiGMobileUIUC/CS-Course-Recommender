@@ -1,0 +1,550 @@
+[
+  {
+    "Course": "CS:100",
+    "Interest": "Introduction"
+  },
+  {
+    "Course": "CS:101",
+    "Interest": "Introduction"
+  },
+  {
+    "Course": "CS:102",
+    "Interest": "Introduction, Data Science"
+  },
+  {
+    "Course": "CS:105",
+    "Interest": "Introduction"
+  },
+  {
+    "Course": "CS:124",
+    "Interest": "Introduction, Core"
+  },
+  {
+    "Course": "CS:128",
+    "Interest": "Introduction, Core"
+  },
+  {
+    "Course": "CS:173",
+    "Interest": "Introduction, Theory, Core"
+  },
+  {
+    "Course": "CS:210",
+    "Interest": "Ethics"
+  },
+  {
+    "Course": "CS:211",
+    "Interest": "Ethics"
+  },
+  {
+    "Course": "CS:222",
+    "Interest": "Team Project"
+  },
+  {
+    "Course": "CS:225",
+    "Interest": "Core, Foundation"
+  },
+  {
+    "Course": "CS:231",
+    "Interest": "N/A"
+  },
+  {
+    "Course": "CS:232",
+    "Interest": "N/A"
+  },
+  {
+    "Course": "CS:233",
+    "Interest": "Distributed Systems"
+  },
+  {
+    "Course": "CS:242",
+    "Interest": "Software Foundation"
+  },
+  {
+    "Course": "CS:277",
+    "Interest": "Algorithms, Data Science"
+  },
+  {
+    "Course": "CS:296",
+    "Interest": "Team Project"
+  },
+  {
+    "Course": "CS:307",
+    "Interest": "Intelligence and Big Data, Data Science"
+  },
+  {
+    "Course": "CS:340",
+    "Interest": "Distributed Systems"
+  },
+  {
+    "Course": "CS:341",
+    "Interest": "Distributed Systems"
+  },
+  {
+    "Course": "CS:357",
+    "Interest": "Models of Computation"
+  },
+  {
+    "Course": "CS:361",
+    "Interest": "Models of Computation"
+  },
+  {
+    "Course": "CS:373",
+    "Interest": "N/A"
+  },
+  {
+    "Course": "CS:374",
+    "Interest": "Algorithms, Models of Computation"
+  },
+  {
+    "Course": "CS:400",
+    "Interest": "Introduction, Foundation"
+  },
+  {
+    "Course": "CS:401",
+    "Interest": "Introduction, Theory"
+  },
+  {
+    "Course": "CS:402",
+    "Interest": "Introduction, Foundation"
+  },
+  {
+    "Course": "CS:403",
+    "Interest": "Introduction, Theory"
+  },
+  {
+    "Course": "CS:409",
+    "Interest": "Software Foundation, Media, Human and Social Impact"
+  },
+  {
+    "Course": "CS:410",
+    "Interest": "Intelligence and Big Data"
+  },
+  {
+    "Course": "CS:411",
+    "Interest": "Team Project, Intelligence and Big Data"
+  },
+  {
+    "Course": "CS:412",
+    "Interest": "Intelligence and Big Data"
+  },
+  {
+    "Course": "CS:414",
+    "Interest": "Intelligence and Big Data, Media"
+  },
+  {
+    "Course": "CS:415",
+    "Interest": "Human and Social Impact, Team Project, Media"
+  },
+  {
+    "Course": "CS:416",
+    "Interest": "Human and Social Impact, Intelligence and Big Data, Media"
+  },
+  {
+    "Course": "CS:418",
+    "Interest": "Media, Theory"
+  },
+  {
+    "Course": "CS:419",
+    "Interest": "Media, Theory"
+  },
+  {
+    "Course": "CS:420",
+    "Interest": "Scientific, Parallel, and High Perfomance Computing"
+  },
+  {
+    "Course": "CS:421",
+    "Interest": "Core, Foundation"
+  },
+  {
+    "Course": "CS:422",
+    "Interest": "Software Foundation, Theory"
+  },
+  {
+    "Course": "CS:423",
+    "Interest": "Distributed Systems and Networking, Machines"
+  },
+  {
+    "Course": "CS:424",
+    "Interest": "Distributed Systems and Networking, Machines"
+  },
+  {
+    "Course": "CS:425",
+    "Interest": "Distributed Systems and Networking, Security, Team Project"
+  },
+  {
+    "Course": "CS:426",
+    "Interest": "Machines, Software Foundation"
+  },
+  {
+    "Course": "CS:427",
+    "Interest": "Team Project, Software Foundation"
+  },
+  {
+    "Course": "CS:428",
+    "Interest": "Team Project, Software Foundation"
+  },
+  {
+    "Course": "CS:429",
+    "Interest": "Team Project, Software Foundation"
+  },
+  {
+    "Course": "CS:431",
+    "Interest": "Distributed Systems and Networking, Machines"
+  },
+  {
+    "Course": "CS:433",
+    "Interest": "Machines"
+  },
+  {
+    "Course": "CS:435",
+    "Interest": "Scientific, Parallel, and High Perfomance Computing"
+  },
+  {
+    "Course": "CS:437",
+    "Interest": "Distributed Systems and Networking, Security, Team Project, Machines"
+  },
+  {
+    "Course": "CS:438",
+    "Interest": "Distributed Systems and Networking"
+  },
+  {
+    "Course": "CS:440",
+    "Interest": "Intelligence and Big Data"
+  },
+  {
+    "Course": "CS:441",
+    "Interest": "Intelligence and Big Data, Human and Social Impact"
+  },
+  {
+    "Course": "CS:442",
+    "Interest": "Intelligence and Big Data, Human and Social Impact"
+  },
+  {
+    "Course": "CS:443",
+    "Interest": "Intelligence and Big Data"
+  },
+  {
+    "Course": "CS:444",
+    "Interest": "Intelligence and Big Data"
+  },
+  {
+    "Course": "CS:445",
+    "Interest": "Intelligence and Big Data, Media"
+  },
+  {
+    "Course": "CS:446",
+    "Interest": "Intelligence and Big Data"
+  },
+  {
+    "Course": "CS:447",
+    "Interest": "Intelligence and Big Data"
+  },
+  {
+    "Course": "CS:448",
+    "Interest": "Intelligence and Big Data, Media"
+  },
+  {
+    "Course": "CS:450",
+    "Interest": "Scientific, Parallel, and High Perfomance Computing"
+  },
+  {
+    "Course": "",
+    "Interest": ""
+  },
+  {
+    "Course": "CS:460",
+    "Interest": "Security, Human and Social Impact"
+  },
+  {
+    "Course": "CS:461",
+    "Interest": "Security, Human and Social Impact"
+  },
+  {
+    "Course": "CS:462",
+    "Interest": "Ethics"
+  },
+  {
+    "Course": "CS:463",
+    "Interest": "Security, Human and Social Impact"
+  },
+  {
+    "Course": "CS:464",
+    "Interest": "Intelligence and Big Data, Human and Social Impact"
+  },
+  {
+    "Course": "CS:465",
+    "Interest": "Media, Team Project, Human and Social Impact"
+  },
+  {
+    "Course": "CS:466",
+    "Interest": "Scientific, Parallel, and High Perfomance Computing, Human and Social Impact"
+  },
+  {
+    "Course": "CS:467",
+    "Interest": "Human and Social Impact"
+  },
+  {
+    "Course": "CS:468",
+    "Interest": "Media, Human and Social Impact"
+  },
+  {
+    "Course": "CS:469",
+    "Interest": "Human and Social Impact, Media"
+  },
+  {
+    "Course": "CS:470",
+    "Interest": "Human and Social Impact, Distributed Systems and Networking"
+  },
+  {
+    "Course": "CS:473",
+    "Interest": "Algorithms"
+  },
+  {
+    "Course": "CS:474",
+    "Interest": "Theory"
+  },
+  {
+    "Course": "CS:475",
+    "Interest": "Models of Computation, Theory"
+  },
+  {
+    "Course": "CS:476",
+    "Interest": "Models of Computation, Theory"
+  },
+  {
+    "Course": "CS:477",
+    "Interest": "Models of Computation, Software Foundation"
+  },
+  {
+    "Course": "CS:478",
+    "Interest": "Theory, Scientific, Parallel, and High Perfomance Computing"
+  },
+  {
+    "Course": "CS:481",
+    "Interest": "Theory, Algorithms"
+  },
+  {
+    "Course": "CS:482",
+    "Interest": "Scientific, Parallel, and High Perfomance Computing, Algorithms"
+  },
+  {
+    "Course": "CS:483",
+    "Interest": "Scientific, Parallel, and High Perfomance Computing"
+  },
+  {
+    "Course": "CS:484",
+    "Interest": "Scientific, Parallel, and High Perfomance Computing, Algorithms"
+  },
+  {
+    "Course": "CS:492",
+    "Interest": "Team Project"
+  },
+  {
+    "Course": "CS:493",
+    "Interest": "Team Project"
+  },
+  {
+    "Course": "CS:494",
+    "Interest": "Team Project"
+  },
+  {
+    "Course": "CS:497",
+    "Interest": "Team Project"
+  },
+  {
+    "Course": "CS:500",
+    "Interest": "Human and Social Impact"
+  },
+  {
+    "Course": "CS:508",
+    "Interest": "Scientific, Parallel, and High Perfomance Computing, Algorithms"
+  },
+  {
+    "Course": "CS:510",
+    "Interest": "Algorithms, Intelligence and Big Data"
+  },
+  {
+    "Course": "CS:511",
+    "Interest": "Algorithms, Intelligence and Big Data"
+  },
+  {
+    "Course": "CS:512",
+    "Interest": "Intelligence and Big Data"
+  },
+  {
+    "Course": "CS:513",
+    "Interest": "Intelligence and Big Data"
+  },
+  {
+    "Course": "CS:519",
+    "Interest": "Media, Scientific, Parallel, and High Perfomance Computing"
+  },
+  {
+    "Course": "CS:521",
+    "Interest": "Scientific, Parallel, and High Perfomance Computing, Theory"
+  },
+  {
+    "Course": "CS:522",
+    "Interest": "Models of Computation, Theory"
+  },
+  {
+    "Course": "CS:523",
+    "Interest": "Distributed Systems, Theory"
+  },
+  {
+    "Course": "CS:524",
+    "Interest": "Models of Computation, Theory"
+  },
+  {
+    "Course": "CS:525",
+    "Interest": "Distributed Systems and Networking, Theory"
+  },
+  {
+    "Course": "CS:526",
+    "Interest": "Models of Computation, Algorithms"
+  },
+  {
+    "Course": "CS:527",
+    "Interest": "Software Foundation, Theory"
+  },
+  {
+    "Course": "CS:528",
+    "Interest": "Software Foundation"
+  },
+  {
+    "Course": "CS:533",
+    "Interest": "Scientific, Parallel, and High Perfomance Computing"
+  },
+  {
+    "Course": "CS:534",
+    "Interest": "Scientific, Parallel, and High Perfomance Computing, Software Foundation"
+  },
+  {
+    "Course": "CS:536",
+    "Interest": "Models of Computation, Security"
+  },
+  {
+    "Course": "CS:537",
+    "Interest": "Distributed Systems and Networking"
+  },
+  {
+    "Course": "CS:538",
+    "Interest": "Distributed Systems and Networking"
+  },
+  {
+    "Course": "CS:539",
+    "Interest": "Distributed Systems and Networking, Algorithms"
+  },
+  {
+    "Course": "CS:540",
+    "Interest": "Intelligence and Big Data, Theory"
+  },
+  {
+    "Course": "CS:541",
+    "Interest": "Models of Computation"
+  },
+  {
+    "Course": "CS:542",
+    "Interest": "Intelligence and Big Data, Theory"
+  },
+  {
+    "Course": "CS:543",
+    "Interest": "Algorithms, Intelligence and Big Data"
+  },
+  {
+    "Course": "CS:544",
+    "Interest": "Algorithms, Intelligence and Big Data"
+  },
+  {
+    "Course": "CS:545",
+    "Interest": "Intelligence and Big Data, Media"
+  },
+  {
+    "Course": "CS:546",
+    "Interest": "Intelligence and Big Data, Theory"
+  },
+  {
+    "Course": "CS:547",
+    "Interest": "Intelligence and Big Data, Algorithms"
+  },
+  {
+    "Course": "CS:548",
+    "Interest": "Models of Computation, Intelligence and Big Data"
+  },
+  {
+    "Course": "CS:554",
+    "Interest": "Algorithms, Scientific, Parallel, and High Perfomance Computing"
+  },
+  {
+    "Course": "CS:555",
+    "Interest": "Algorithms, Scientific, Parallel, and High Perfomance Computing"
+  },
+  {
+    "Course": "CS:556",
+    "Interest": "Algorithms, Scientific, Parallel, and High Perfomance Computing"
+  },
+  {
+    "Course": "CS:562",
+    "Interest": "Intelligence and Big Data, Security, Human and Social Impact"
+  },
+  {
+    "Course": "CS:563",
+    "Interest": "Security"
+  },
+  {
+    "Course": "CS:565",
+    "Interest": "Intelligence and Big Data, Human and Social Impact"
+  },
+  {
+    "Course": "CS:567",
+    "Interest": "Human and Social Impact"
+  },
+  {
+    "Course": "CS:568",
+    "Interest": "Intelligence and Big Data, Human and Social Impact"
+  },
+  {
+    "Course": "CS:574",
+    "Interest": "Algorithms"
+  },
+  {
+    "Course": "CS:576",
+    "Interest": "Algorithms, Theory, Models of Computation"
+  },
+  {
+    "Course": "CS:579",
+    "Interest": "Machines, Theory"
+  },
+  {
+    "Course": "CS:580",
+    "Interest": "Algorithms, Theory"
+  },
+  {
+    "Course": "CS:581",
+    "Interest": "Algorithms, Theory"
+  },
+  {
+    "Course": "CS:582",
+    "Interest": "Intelligence and Big Data, Human and Social Impact"
+  },
+  {
+    "Course": "CS:583",
+    "Interest": "Algorithms, Theory"
+  },
+  {
+    "Course": "CS:584",
+    "Interest": "Distributed Systems and Networking, Machines, Human and Social Impact"
+  },
+  {
+    "Course": "CS:585",
+    "Interest": "Algorithms"
+  },
+  {
+    "Course": "CS:586",
+    "Interest": "Theory"
+  },
+  {
+    "Course": "CS:588",
+    "Interest": "Distributed Systems and Networking, Machines, Human and Social Impact"
+  }
+]

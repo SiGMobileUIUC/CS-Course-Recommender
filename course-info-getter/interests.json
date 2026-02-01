@@ -1,550 +1,546 @@
 [
   {
-    "course": "100",
-    "interest": "Introduction"
+    "course": 100,
+    "interests": ["Introduction"]
   },
   {
-    "course": "101",
-    "interest": "Introduction"
+    "course": 101,
+    "interests": ["Introduction"]
   },
   {
-    "course": "102",
-    "interest": "Introduction, Data Science"
+    "course": 102,
+    "interests": ["Introduction", "Data Science"]
   },
   {
-    "course": "105",
-    "interest": "Introduction"
+    "course": 105,
+    "interests": ["Introduction"]
   },
   {
-    "course": "124",
-    "interest": "Introduction, Core"
+    "course": 124,
+    "interests": ["Introduction", "Core"]
   },
   {
-    "course": "128",
-    "interest": "Introduction, Core"
+    "course": 128,
+    "interests": ["Introduction", "Core"]
   },
   {
-    "course": "173",
-    "interest": "Introduction, Theory, Core"
+    "course": 173,
+    "interests": ["Introduction", "Theory", "Core"]
   },
   {
-    "course": "210",
-    "interest": "Ethics"
+    "course": 210,
+    "interests": ["Ethics"]
   },
   {
-    "course": "211",
-    "interest": "Ethics"
+    "course": 211,
+    "interests": ["Ethics"]
   },
   {
-    "course": "222",
-    "interest": "Team Project"
+    "course": 222,
+    "interests": ["Team Project"]
   },
   {
-    "course": "225",
-    "interest": "Core, Foundation"
+    "course": 225,
+    "interests": ["Core", "Foundation"]
   },
   {
-    "course": "231",
-    "interest": "N/A"
+    "course": 231,
+    "interests": ["N/A"]
   },
   {
-    "course": "232",
-    "interest": "N/A"
+    "course": 232,
+    "interests": ["N/A"]
   },
   {
-    "course": "233",
-    "interest": "Distributed Systems"
+    "course": 233,
+    "interests": ["Distributed Systems"]
   },
   {
-    "course": "242",
-    "interest": "Software Foundation"
+    "course": 242,
+    "interests": ["Software Foundation"]
   },
   {
-    "course": "277",
-    "interest": "Algorithms, Data Science"
+    "course": 277,
+    "interests": ["Algorithms", "Data Science"]
   },
   {
-    "course": "296",
-    "interest": "Team Project"
+    "course": 296,
+    "interests": ["Team Project"]
   },
   {
-    "course": "307",
-    "interest": "Intelligence and Big Data, Data Science"
+    "course": 307,
+    "interests": ["Intelligence and Big Data", "Data Science"]
   },
   {
-    "course": "340",
-    "interest": "Distributed Systems"
+    "course": 340,
+    "interests": ["Distributed Systems"]
   },
   {
-    "course": "341",
-    "interest": "Distributed Systems"
+    "course": 341,
+    "interests": ["Distributed Systems"]
   },
   {
-    "course": "357",
-    "interest": "Models of Computation"
+    "course": 357,
+    "interests": ["Models of Computation"]
   },
   {
-    "course": "361",
-    "interest": "Models of Computation"
+    "course": 361,
+    "interests": ["Models of Computation"]
   },
   {
-    "course": "373",
-    "interest": "N/A"
+    "course": 373,
+    "interests": ["N/A"]
   },
   {
-    "course": "374",
-    "interest": "Algorithms, Models of Computation"
+    "course": 374,
+    "interests": ["Algorithms", "Models of Computation"]
   },
   {
-    "course": "400",
-    "interest": "Introduction, Foundation"
+    "course": 400,
+    "interests": ["Introduction", "Foundation"]
   },
   {
-    "course": "401",
-    "interest": "Introduction, Theory"
+    "course": 401,
+    "interests": ["Introduction", "Theory"]
   },
   {
-    "course": "402",
-    "interest": "Introduction, Foundation"
+    "course": 402,
+    "interests": ["Introduction", "Foundation"]
   },
   {
-    "course": "403",
-    "interest": "Introduction, Theory"
+    "course": 403,
+    "interests": ["Introduction", "Theory"]
   },
   {
-    "course": "409",
-    "interest": "Software Foundation, Media, Human and Social Impact"
+    "course": 409,
+    "interests": ["Software Foundation", "Media", "Human and Social Impact"]
   },
   {
-    "course": "410",
-    "interest": "Intelligence and Big Data"
+    "course": 410,
+    "interests": ["Intelligence and Big Data"]
   },
   {
-    "course": "411",
-    "interest": "Team Project, Intelligence and Big Data"
+    "course": 411,
+    "interests": ["Team Project", "Intelligence and Big Data"]
   },
   {
-    "course": "412",
-    "interest": "Intelligence and Big Data"
+    "course": 412,
+    "interests": ["Intelligence and Big Data"]
   },
   {
-    "course": "414",
-    "interest": "Intelligence and Big Data, Media"
+    "course": 414,
+    "interests": ["Intelligence and Big Data", "Media"]
   },
   {
-    "course": "415",
-    "interest": "Human and Social Impact, Team Project, Media"
+    "course": 415,
+    "interests": ["Human and Social Impact", "Team Project", "Media"]
   },
   {
-    "course": "416",
-    "interest": "Human and Social Impact, Intelligence and Big Data, Media"
+    "course": 416,
+    "interests": ["Human and Social Impact", "Intelligence and Big Data", "Media"]
   },
   {
-    "course": "418",
-    "interest": "Media, Theory"
+    "course": 418,
+    "interests": ["Media", "Theory"]
   },
   {
-    "course": "419",
-    "interest": "Media, Theory"
+    "course": 419,
+    "interests": ["Media", "Theory"]
   },
   {
-    "course": "420",
-    "interest": "Scientific, Parallel, and High Perfomance Computing"
+    "course": 420,
+    "interests": ["Scientific, Parallel, and High Perfomance Computing"]
   },
   {
-    "course": "421",
-    "interest": "Core, Foundation"
+    "course": 421,
+    "interests": ["Core", "Foundation"]
   },
   {
-    "course": "422",
-    "interest": "Software Foundation, Theory"
+    "course": 422,
+    "interests": ["Software Foundation", "Theory"]
   },
   {
-    "course": "423",
-    "interest": "Distributed Systems and Networking, Machines"
+    "course": 423,
+    "interests": ["Distributed Systems and Networking", "Machines"]
   },
   {
-    "course": "424",
-    "interest": "Distributed Systems and Networking, Machines"
+    "course": 424,
+    "interests": ["Distributed Systems and Networking", "Machines"]
   },
   {
-    "course": "425",
-    "interest": "Distributed Systems and Networking, Security, Team Project"
+    "course": 425,
+    "interests": ["Distributed Systems and Networking", "Security", "Team Project"]
   },
   {
-    "course": "426",
-    "interest": "Machines, Software Foundation"
+    "course": 426,
+    "interests": ["Machines", "Software Foundation"]
   },
   {
-    "course": "427",
-    "interest": "Team Project, Software Foundation"
+    "course": 427,
+    "interests": ["Team Project", "Software Foundation"]
   },
   {
-    "course": "428",
-    "interest": "Team Project, Software Foundation"
+    "course": 428,
+    "interests": ["Team Project", "Software Foundation"]
   },
   {
-    "course": "429",
-    "interest": "Team Project, Software Foundation"
+    "course": 429,
+    "interests": ["Team Project", "Software Foundation"]
   },
   {
-    "course": "431",
-    "interest": "Distributed Systems and Networking, Machines"
+    "course": 431,
+    "interests": ["Distributed Systems and Networking", "Machines"]
   },
   {
-    "course": "433",
-    "interest": "Machines"
+    "course": 433,
+    "interests": ["Machines"]
   },
   {
-    "course": "435",
-    "interest": "Scientific, Parallel, and High Perfomance Computing"
+    "course": 435,
+    "interests": ["Scientific, Parallel, and High Perfomance Computing"]
   },
   {
-    "course": "437",
-    "interest": "Distributed Systems and Networking, Security, Team Project, Machines"
+    "course": 437,
+    "interests": ["Distributed Systems and Networking", "Security", "Team Project", "Machines"]
   },
   {
-    "course": "438",
-    "interest": "Distributed Systems and Networking"
+    "course": 438,
+    "interests": ["Distributed Systems and Networking"]
   },
   {
-    "course": "440",
-    "interest": "Intelligence and Big Data"
+    "course": 440,
+    "interests": ["Intelligence and Big Data"]
   },
   {
-    "course": "441",
-    "interest": "Intelligence and Big Data, Human and Social Impact"
+    "course": 441,
+    "interests": ["Intelligence and Big Data", "Human and Social Impact"]
   },
   {
-    "course": "442",
-    "interest": "Intelligence and Big Data, Human and Social Impact"
+    "course": 442,
+    "interests": ["Intelligence and Big Data", "Human and Social Impact"]
   },
   {
-    "course": "443",
-    "interest": "Intelligence and Big Data"
+    "course": 443,
+    "interests": ["Intelligence and Big Data"]
   },
   {
-    "course": "444",
-    "interest": "Intelligence and Big Data"
+    "course": 444,
+    "interests": ["Intelligence and Big Data"]
   },
   {
-    "course": "445",
-    "interest": "Intelligence and Big Data, Media"
+    "course": 445,
+    "interests": ["Intelligence and Big Data", "Media"]
   },
   {
-    "course": "446",
-    "interest": "Intelligence and Big Data"
+    "course": 446,
+    "interests": ["Intelligence and Big Data"]
   },
   {
-    "course": "447",
-    "interest": "Intelligence and Big Data"
+    "course": 447,
+    "interests": ["Intelligence and Big Data"]
   },
   {
-    "course": "448",
-    "interest": "Intelligence and Big Data, Media"
+    "course": 448,
+    "interests": ["Intelligence and Big Data", "Media"]
   },
   {
-    "course": "450",
-    "interest": "Scientific, Parallel, and High Perfomance Computing"
+    "course": 450,
+    "interests": ["Scientific, Parallel, and High Perfomance Computing"]
   },
   {
-    "course": "",
-    "interest": ""
+    "course": 460,
+    "interests": ["Security", "Human and Social Impact"]
   },
   {
-    "course": "460",
-    "interest": "Security, Human and Social Impact"
+    "course": 461,
+    "interests": ["Security", "Human and Social Impact"]
   },
   {
-    "course": "461",
-    "interest": "Security, Human and Social Impact"
+    "course": 462,
+    "interests": ["Ethics"]
   },
   {
-    "course": "462",
-    "interest": "Ethics"
+    "course": 463,
+    "interests": ["Security", "Human and Social Impact"]
   },
   {
-    "course": "463",
-    "interest": "Security, Human and Social Impact"
+    "course": 464,
+    "interests": ["Intelligence and Big Data", "Human and Social Impact"]
   },
   {
-    "course": "464",
-    "interest": "Intelligence and Big Data, Human and Social Impact"
+    "course": 465,
+    "interests": ["Media", "Team Project", "Human and Social Impact"]
   },
   {
-    "course": "465",
-    "interest": "Media, Team Project, Human and Social Impact"
+    "course": 466,
+    "interests": ["Scientific, Parallel, and High Perfomance Computing", "Human and Social Impact"]
   },
   {
-    "course": "466",
-    "interest": "Scientific, Parallel, and High Perfomance Computing, Human and Social Impact"
+    "course": 467,
+    "interests": ["Human and Social Impact"]
   },
   {
-    "course": "467",
-    "interest": "Human and Social Impact"
+    "course": 468,
+    "interests": ["Media", "Human and Social Impact"]
   },
   {
-    "course": "468",
-    "interest": "Media, Human and Social Impact"
+    "course": 469,
+    "interests": ["Media", "Human and Social Impact"]
   },
   {
-    "course": "469",
-    "interest": "Human and Social Impact, Media"
+    "course": 470,
+    "interests": ["Human and Social Impact", "Distributed Systems and Networking"]
   },
   {
-    "course": "470",
-    "interest": "Human and Social Impact, Distributed Systems and Networking"
+    "course": 473,
+    "interests": ["Algorithms"]
   },
   {
-    "course": "473",
-    "interest": "Algorithms"
+    "course": 474,
+    "interests": ["Theory"]
   },
   {
-    "course": "474",
-    "interest": "Theory"
+    "course": 475,
+    "interests": ["Models of Computation", "Theory"]
   },
   {
-    "course": "475",
-    "interest": "Models of Computation, Theory"
+    "course": 476,
+    "interests": ["Models of Computation", "Theory"]
   },
   {
-    "course": "476",
-    "interest": "Models of Computation, Theory"
+    "course": 477,
+    "interests": ["Models of Computation", "Software Foundation"]
   },
   {
-    "course": "477",
-    "interest": "Models of Computation, Software Foundation"
+    "course": 478,
+    "interests": ["Theory", "Scientific, Parallel, and High Perfomance Computing"]
   },
   {
-    "course": "478",
-    "interest": "Theory, Scientific, Parallel, and High Perfomance Computing"
+    "course": 481,
+    "interests": ["Theory", "Algorithms"]
   },
   {
-    "course": "481",
-    "interest": "Theory, Algorithms"
+    "course": 482,
+    "interests": ["Scientific, Parallel, and High Perfomance Computing", "Algorithms"]
   },
   {
-    "course": "482",
-    "interest": "Scientific, Parallel, and High Perfomance Computing, Algorithms"
+    "course": 483,
+    "interests": ["Scientific, Parallel, and High Perfomance Computing"]
   },
   {
-    "course": "483",
-    "interest": "Scientific, Parallel, and High Perfomance Computing"
+    "course": 484,
+    "interests": ["Scientific, Parallel, and High Perfomance Computing", "Algorithms"]
   },
   {
-    "course": "484",
-    "interest": "Scientific, Parallel, and High Perfomance Computing, Algorithms"
+    "course": 492,
+    "interests": ["Team Project"]
   },
   {
-    "course": "492",
-    "interest": "Team Project"
+    "course": 493,
+    "interests": ["Team Project"]
   },
   {
-    "course": "493",
-    "interest": "Team Project"
+    "course": 494,
+    "interests": ["Team Project"]
   },
   {
-    "course": "494",
-    "interest": "Team Project"
+    "course": 497,
+    "interests": ["Team Project"]
   },
   {
-    "course": "497",
-    "interest": "Team Project"
+    "course": 500,
+    "interests": ["Human and Social Impact"]
   },
   {
-    "course": "500",
-    "interest": "Human and Social Impact"
+    "course": 508,
+    "interests": ["Scientific, Parallel, and High Perfomance Computing", "Algorithms"]
   },
   {
-    "course": "508",
-    "interest": "Scientific, Parallel, and High Perfomance Computing, Algorithms"
+    "course": 510,
+    "interests": ["Algorithms", "Intelligence and Big Data"]
   },
   {
-    "course": "510",
-    "interest": "Algorithms, Intelligence and Big Data"
+    "course": 511,
+    "interests": ["Algorithms", "Intelligence and Big Data"]
   },
   {
-    "course": "511",
-    "interest": "Algorithms, Intelligence and Big Data"
+    "course": 512,
+    "interests": ["Intelligence and Big Data"]
   },
   {
-    "course": "512",
-    "interest": "Intelligence and Big Data"
+    "course": 513,
+    "interests": ["Intelligence and Big Data"]
   },
   {
-    "course": "513",
-    "interest": "Intelligence and Big Data"
+    "course": 519,
+    "interests": ["Media", "Scientific, Parallel, and High Perfomance Computing"]
   },
   {
-    "course": "519",
-    "interest": "Media, Scientific, Parallel, and High Perfomance Computing"
+    "course": 521,
+    "interests": ["Scientific, Parallel, and High Perfomance Computing", "Theory"]
   },
   {
-    "course": "521",
-    "interest": "Scientific, Parallel, and High Perfomance Computing, Theory"
+    "course": 522,
+    "interests": ["Models of Computation", "Theory"]
   },
   {
-    "course": "522",
-    "interest": "Models of Computation, Theory"
+    "course": 523,
+    "interests": ["Distributed Systems", "Theory"]
   },
   {
-    "course": "523",
-    "interest": "Distributed Systems, Theory"
+    "course": 524,
+    "interests": ["Models of Computation", "Theory"]
   },
   {
-    "course": "524",
-    "interest": "Models of Computation, Theory"
+    "course": 525,
+    "interests": ["Distributed Systems and Networking", "Theory"]
   },
   {
-    "course": "525",
-    "interest": "Distributed Systems and Networking, Theory"
+    "course": 526,
+    "interests": ["Models of Computation", "Algorithms"]
   },
   {
-    "course": "526",
-    "interest": "Models of Computation, Algorithms"
+    "course": 527,
+    "interests": ["Software Foundation", "Theory"]
   },
   {
-    "course": "527",
-    "interest": "Software Foundation, Theory"
+    "course": 528,
+    "interests": ["Software Foundation"]
   },
   {
-    "course": "528",
-    "interest": "Software Foundation"
+    "course": 533,
+    "interests": ["Scientific, Parallel, and High Perfomance Computing"]
   },
   {
-    "course": "533",
-    "interest": "Scientific, Parallel, and High Perfomance Computing"
+    "course": 534,
+    "interests": ["Scientific, Parallel, and High Perfomance Computing", "Software Foundation"]
   },
   {
-    "course": "534",
-    "interest": "Scientific, Parallel, and High Perfomance Computing, Software Foundation"
+    "course": 536,
+    "interests": ["Models of Computation", "Security"]
   },
   {
-    "course": "536",
-    "interest": "Models of Computation, Security"
+    "course": 537,
+    "interests": ["Distributed Systems and Networking"]
   },
   {
-    "course": "537",
-    "interest": "Distributed Systems and Networking"
+    "course": 538,
+    "interests": ["Distributed Systems and Networking"]
   },
   {
-    "course": "538",
-    "interest": "Distributed Systems and Networking"
+    "course": 539,
+    "interests": ["Distributed Systems and Networking", "Algorithms"]
   },
   {
-    "course": "539",
-    "interest": "Distributed Systems and Networking, Algorithms"
+    "course": 540,
+    "interests": ["Intelligence and Big Data", "Theory"]
   },
   {
-    "course": "540",
-    "interest": "Intelligence and Big Data, Theory"
+    "course": 541,
+    "interests": ["Models of Computation"]
   },
   {
-    "course": "541",
-    "interest": "Models of Computation"
+    "course": 542,
+    "interests": ["Intelligence and Big Data", "Theory"]
   },
   {
-    "course": "542",
-    "interest": "Intelligence and Big Data, Theory"
+    "course": 543,
+    "interests": ["Algorithms", "Intelligence and Big Data"]
   },
   {
-    "course": "543",
-    "interest": "Algorithms, Intelligence and Big Data"
+    "course": 544,
+    "interests": ["Algorithms", "Intelligence and Big Data"]
   },
   {
-    "course": "544",
-    "interest": "Algorithms, Intelligence and Big Data"
+    "course": 545,
+    "interests": ["Intelligence and Big Data", "Media"]
   },
   {
-    "course": "545",
-    "interest": "Intelligence and Big Data, Media"
+    "course": 546,
+    "interests": ["Intelligence and Big Data", "Theory"]
   },
   {
-    "course": "546",
-    "interest": "Intelligence and Big Data, Theory"
+    "course": 547,
+    "interests": ["Intelligence and Big Data", "Algorithms"]
   },
   {
-    "course": "547",
-    "interest": "Intelligence and Big Data, Algorithms"
+    "course": 548,
+    "interests": ["Models of Computation", "Intelligence and Big Data"]
   },
   {
-    "course": "548",
-    "interest": "Models of Computation, Intelligence and Big Data"
+    "course": 554,
+    "interests": ["Algorithms", "Scientific, Parallel, and High Perfomance Computing"]
   },
   {
-    "course": "554",
-    "interest": "Algorithms, Scientific, Parallel, and High Perfomance Computing"
+    "course": 555,
+    "interests": ["Algorithms", "Scientific, Parallel, and High Perfomance Computing"]
   },
   {
-    "course": "555",
-    "interest": "Algorithms, Scientific, Parallel, and High Perfomance Computing"
+    "course": 556,
+    "interests": ["Algorithms", "Scientific, Parallel, and High Perfomance Computing"]
   },
   {
-    "course": "556",
-    "interest": "Algorithms, Scientific, Parallel, and High Perfomance Computing"
+    "course": 562,
+    "interests": ["Intelligence and Big Data", "Security", "Human and Social Impact"]
   },
   {
-    "course": "562",
-    "interest": "Intelligence and Big Data, Security, Human and Social Impact"
+    "course": 563,
+    "interests": ["Security"]
   },
   {
-    "course": "563",
-    "interest": "Security"
+    "course": 565,
+    "interests": ["Intelligence and Big Data", "Human and Social Impact"]
   },
   {
-    "course": "565",
-    "interest": "Intelligence and Big Data, Human and Social Impact"
+    "course": 567,
+    "interests": ["Human and Social Impact"]
   },
   {
-    "course": "567",
-    "interest": "Human and Social Impact"
+    "course": 568,
+    "interests": ["Intelligence and Big Data", "Human and Social Impact"]
   },
   {
-    "course": "568",
-    "interest": "Intelligence and Big Data, Human and Social Impact"
+    "course": 574,
+    "interests": ["Algorithms"]
   },
   {
-    "course": "574",
-    "interest": "Algorithms"
+    "course": 576,
+    "interests": ["Algorithms", "Theory", "Models of Computation"]
   },
   {
-    "course": "576",
-    "interest": "Algorithms, Theory, Models of Computation"
+    "course": 579,
+    "interests": ["Machines", "Theory"]
   },
   {
-    "course": "579",
-    "interest": "Machines, Theory"
+    "course": 580,
+    "interests": ["Algorithms", "Theory"]
   },
   {
-    "course": "580",
-    "interest": "Algorithms, Theory"
+    "course": 581,
+    "interests": ["Algorithms", "Theory"]
   },
   {
-    "course": "581",
-    "interest": "Algorithms, Theory"
+    "course": 582,
+    "interests": ["Intelligence and Big Data", "Human and Social Impact"]
   },
   {
-    "course": "582",
-    "interest": "Intelligence and Big Data, Human and Social Impact"
+    "course": 583,
+    "interests": ["Algorithms", "Theory"]
   },
   {
-    "course": "583",
-    "interest": "Algorithms, Theory"
+    "course": 584,
+    "interests": ["Distributed Systems and Networking", "Machines", "Human and Social Impact"]
   },
   {
-    "course": "584",
-    "interest": "Distributed Systems and Networking, Machines, Human and Social Impact"
+    "course": 585,
+    "interests": ["Algorithms"]
   },
   {
-    "course": "585",
-    "interest": "Algorithms"
+    "course": 586,
+    "interests": ["Theory"]
   },
   {
-    "course": "586",
-    "interest": "Theory"
-  },
-  {
-    "course": "588",
-    "interest": "Distributed Systems and Networking, Machines, Human and Social Impact"
+    "course": 588,
+    "interests": ["Distributed Systems and Networking", "Machines", "Human and Social Impact"]
   }
 ]
